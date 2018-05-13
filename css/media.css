@@ -1,0 +1,11 @@
+@media screen and (max-width:400px){
+  #fh5co-header .navbar-brand{
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  #fh5co-header .navbar-brand{
+    font-size: 14px;
+  }
+}
