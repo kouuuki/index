@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -303,6 +303,11 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   padding-left: 0;
   color: #fff;
+}
+@media screen and (max-width: 500px) {
+  #fh5co-header .navbar-brand{
+    font-size: 24px;
+  }
 }
 #fh5co-header.navbar-fixed-top {
   position: fixed !important;
